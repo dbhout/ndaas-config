@@ -14,7 +14,7 @@ spring:
                   predicates: 
                     - Path=/status
         discovery:
-            enabled: true
+            enabled: false
                     
 eureka:
     client:
