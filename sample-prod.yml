@@ -1,3 +1,4 @@
 just:
   testing: hello prod
-  
+testing:
+  overrides: remote prod
